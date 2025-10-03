@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Johnata Marcelo Viana E Viana  
 
-<!--
-**johnataviana/johnataviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **QA Engineer / Analista de Testes** com mais de 6 anos de experiência em **qualidade de software**, atuando em todo o ciclo de vida de testes – desde análise de requisitos até automação e entrega contínua.  
 
-Here are some ideas to get you started:
+## 🚀 Minhas especialidades:
+- Planejamento, criação e execução de **planos e cenários de testes** (BDD/Gherkin).  
+- **Testes automatizados** para Web, Mobile e APIs com **Selenium, Cypress, Appium, RestAssured, SpecFlow**.  
+- **Testes funcionais e não funcionais**: regressão, integração, performance e segurança.  
+- **Ferramentas**: JMeter, Postman, SoapUI, Insomnia.  
+- Integração de testes em pipelines **CI/CD (GitLab, Azure DevOps)**.  
+- Consultas e validações em **bancos de dados SQL** (MySQL, SQL Server).  
+- Atuação com **metodologias ágeis** (Scrum/Kanban), participando de todas as cerimônias.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Onde me encontrar:
+- 📍 São Paulo - SP  
+- 💼 [LinkedIn](https://www.linkedin.com/in/johnata-viana/)  
+- ✉️ johnatam.viana@gmail.com  
