@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Johnata Marcelo Viana e Viana  
 
-Sou **QA Engineer / Analista de Testes** com mais de 6 anos de experiência em **qualidade de software**, atuando em projetos de **testes manuais e automatizados** para Web, Mobile e APIs.  
+Sou **QA Engineer / Analista de Testes** com mais de 7 anos de experiência em **qualidade de software**, atuando em projetos de **testes manuais e automatizados** para Web, Mobile e APIs.  
 
 ---
 
